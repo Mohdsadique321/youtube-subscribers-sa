@@ -47,7 +47,7 @@ This project is a backend API for managing YouTube subscribers, built using Node
 - To run this project locally, use the following command in your CLI:
 
 ```bash
-git clone https://github.com/Mohdsadique321/youtube-subscribers.git
+git clone https://github.com/Mohdsadique321/youtube-subscribers-sa.git
 ```
 - Open your favorite code editor and run locally!
 ```bash
